@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SqlAsmSln/.vs/SqlAsmSln
+/SqlAsmSln/SqlAsmTextTools/bin/Debug
+/SqlAsmSln/SqlAsmTextTools/obj/Debug
+/SqlAsmSln/SqlAsmTextTools/SqlAsmTextTools.sqlproj.user
+/SqlAsmSln/SqlAsmTextTools/SqlAsmTextTools.dbmdl
+/SqlAsmSln/SqlAsmTextTools/SqlAsmTextTools.jfm
