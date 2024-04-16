@@ -16,3 +16,7 @@ SqlAsmSln/SqlAsmCompression/SqlAsmCompression.dbmdl
 /SqlAsmSln/SqlAsmRegex/bin/Debug
 /SqlAsmSln/SqlAsmRegex/obj/Debug
 /SqlAsmSln/SqlAsmRegex/SqlAsmRegex.sqlproj.user
+/SqlAsmSln/SqlAsmHttp/SqlAsmHttp.dbmdl
+/SqlAsmSln/SqlAsmHttp/SqlAsmHttp.jfm
+/SqlAsmSln/SqlAsmHttp/SqlAsmHttp.sqlproj.user
+/SqlAsmSln/SqlAsmHttp/obj/Debug

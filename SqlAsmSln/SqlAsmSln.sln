@@ -9,6 +9,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmCompression", "SqlAsm
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmRegex", "SqlAsmRegex\SqlAsmRegex.sqlproj", "{947FEAEE-2770-47A6-AA16-89EB743799AF}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmHttp", "SqlAsmHttp\SqlAsmHttp.sqlproj", "{1F569022-CD02-4857-B118-CF3BC1701A1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,12 @@ Global
 		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F569022-CD02-4857-B118-CF3BC1701A1B}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
