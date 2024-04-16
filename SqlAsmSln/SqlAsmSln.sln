@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmTextTools", "SqlAsmTextTools\SqlAsmTextTools.sqlproj", "{6C79480E-DCC0-44CC-80F2-95E8918997F5}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmCompression", "SqlAsmCompression\SqlAsmCompression.sqlproj", "{760A78C7-2D11-4934-9829-BE74F7703B07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,12 @@ Global
 		{6C79480E-DCC0-44CC-80F2-95E8918997F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C79480E-DCC0-44CC-80F2-95E8918997F5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6C79480E-DCC0-44CC-80F2-95E8918997F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
