@@ -7,6 +7,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmTextTools", "SqlAsmTe
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmCompression", "SqlAsmCompression\SqlAsmCompression.sqlproj", "{760A78C7-2D11-4934-9829-BE74F7703B07}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmRegex", "SqlAsmRegex\SqlAsmRegex.sqlproj", "{947FEAEE-2770-47A6-AA16-89EB743799AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,12 @@ Global
 		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.Build.0 = Release|Any CPU
 		{760A78C7-2D11-4934-9829-BE74F7703B07}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{947FEAEE-2770-47A6-AA16-89EB743799AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

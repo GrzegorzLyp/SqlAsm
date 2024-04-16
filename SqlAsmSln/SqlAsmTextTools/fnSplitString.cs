@@ -17,6 +17,7 @@ public partial class UserDefinedFunctions
 
         var keyValues = new Dictionary<int, string>(values.Length);
         int index = 0;
+
         foreach (var item in values)
         {
             keyValues.Add(++index, item);
