@@ -20,3 +20,7 @@ SqlAsmSln/SqlAsmCompression/SqlAsmCompression.dbmdl
 /SqlAsmSln/SqlAsmHttp/SqlAsmHttp.jfm
 /SqlAsmSln/SqlAsmHttp/SqlAsmHttp.sqlproj.user
 /SqlAsmSln/SqlAsmHttp/obj/Debug
+/SqlAsmSln/SqlAsmRegex/SqlAsmRegex.dbmdl
+/SqlAsmSln/SqlAsmRegex/SqlAsmRegex.jfm
+/SqlAsmSln/SqlAsmConvertEncoding/SqlAsmConvertEncoding.sqlproj.user
+/SqlAsmSln/SqlAsmConvertEncoding/obj/Debug/SqlAsmConvertEncoding.sqlproj.AssemblyReference.cache

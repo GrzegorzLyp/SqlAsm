@@ -13,7 +13,7 @@ public partial class UserDefinedFunctions
     {
         var values = InputString.IsNull
                        ? new String[0]
-                       : (InputString.ToSqlString().Value.Split(new String[] { SplitString.Value }, StringSplitOptions.None));
+                       : InputString.ToSqlString().Value.Split(new String[] { SplitString.Value }, StringSplitOptions.None);
 
         var keyValues = new Dictionary<int, string>(values.Length);
         int index = 0;
