@@ -23,8 +23,7 @@ public partial class UserDefinedFunctions
         if (!encCache.TryGetValue(sEncoding, out Encoding srcEncoding))
         {
             srcEncoding = Encoding.GetEncoding(sEncoding);
-            encCache.TryAdd(sEncoding, srcEncoding);
-            
+            encCache.TryAdd(sEncoding, srcEncoding);            
         }
 
         if (!encCache.TryGetValue(dEncoding, out Encoding dstEncoding))
