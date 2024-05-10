@@ -24,3 +24,15 @@ SqlAsmSln/SqlAsmCompression/SqlAsmCompression.dbmdl
 /SqlAsmSln/SqlAsmRegex/SqlAsmRegex.jfm
 /SqlAsmSln/SqlAsmConvertEncoding/SqlAsmConvertEncoding.sqlproj.user
 /SqlAsmSln/SqlAsmConvertEncoding/obj/Debug/SqlAsmConvertEncoding.sqlproj.AssemblyReference.cache
+/SqlAsmSln/SqlAsmConvert/bin/Debug
+/SqlAsmSln/SqlAsmConvertEncoding/bin/Debug
+/SqlAsmSln/SqlAsmConvertEncoding/obj/Debug
+/SqlAsmSln/SqlAsmHttp/bin/Debug
+/SqlAsmSln/SqlAsmWait/bin/Debug
+/SqlAsmSln/SqlAsmWait/obj/Debug
+/SqlAsmSln/SqlAsmConvert/obj/Debug
+/SqlAsmSln/SqlAsmConvert/SqlAsmConvert.sqlproj.user
+/SqlAsmSln/SqlAsmWait/SqlAsmWait.sqlproj.user
+/.vs/slnx.sqlite
+*.dbmdl
+*.jfm
