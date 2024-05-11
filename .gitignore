@@ -36,3 +36,6 @@ SqlAsmSln/SqlAsmCompression/SqlAsmCompression.dbmdl
 /.vs/slnx.sqlite
 *.dbmdl
 *.jfm
+/.vs
+/SqlAsmSln/SqlAsmXslt/bin/Debug
+/SqlAsmSln/SqlAsmXslt/obj/Debug

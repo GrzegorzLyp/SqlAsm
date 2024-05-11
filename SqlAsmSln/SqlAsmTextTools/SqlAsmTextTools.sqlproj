@@ -66,5 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="fnSplitString.cs" />
+    <Compile Include="fnToBase64.cs" />
+    <Compile Include="fnFromBase64.cs" />
   </ItemGroup>
 </Project>

@@ -10,7 +10,7 @@ using Microsoft.SqlServer.Server;
 public partial class StoredProcedures
 {
 
-    static ConcurrentDictionary<string,Thread> waits = new ConcurrentDictionary<string,Thread>();
+    static readonly ConcurrentDictionary<string,Thread> waits = new ConcurrentDictionary<string,Thread>();
 
     [Microsoft.SqlServer.Server.SqlProcedure]
     public static void spWaitForDelay (SqlString WaitName, SqlInt32 WaitTime)

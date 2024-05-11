@@ -3,16 +3,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>SqlAsmConvertEncoding</Name>
+    <Name>SqlAsmXslt</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{0656bb3c-f48c-4e5c-a6cd-3a7bb24739ac}</ProjectGuid>
+    <ProjectGuid>{a16f51be-93f2-45d6-aad5-8869e5eb0b1c}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>SqlAsmConvertEncoding</RootNamespace>
-    <AssemblyName>SqlAsmConvertEncoding</AssemblyName>
+    <RootNamespace>SqlAsmXslt</RootNamespace>
+    <AssemblyName>SqlAsmXslt</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
@@ -65,7 +65,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="fnConvertEncoding.cs" />
-    <Compile Include="fnConvertEncodingWithCache.cs" />
+    <Compile Include="fnXsltTransform.cs" />
   </ItemGroup>
 </Project>

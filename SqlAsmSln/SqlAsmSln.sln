@@ -17,6 +17,8 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmWait", "SqlAsmWait\Sq
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmConvert", "SqlAsmConvert\SqlAsmConvert.sqlproj", "{1CAA1C3F-2AA5-4C02-8648-6E737DD8F2BE}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SqlAsmXslt", "SqlAsmXslt\SqlAsmXslt.sqlproj", "{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,12 @@ Global
 		{1CAA1C3F-2AA5-4C02-8648-6E737DD8F2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CAA1C3F-2AA5-4C02-8648-6E737DD8F2BE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1CAA1C3F-2AA5-4C02-8648-6E737DD8F2BE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A16F51BE-93F2-45D6-AAD5-8869E5EB0B1C}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
